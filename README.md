@@ -17,7 +17,7 @@
 
   GUI : tesselation level / speed / noise scale / dynamically move terrain or not
 
-- [Demo Link]()
+- [Demo Link](https://hanmingzhang.github.io/homework-1-noisy-planets-HanmingZhang/)
 
 
 
